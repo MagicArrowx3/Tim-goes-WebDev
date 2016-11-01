@@ -1,1 +1,10 @@
+<html>
+	<head>
+		<title>Tim goes HTML</title>
+		<link href="design.css" ref="stylesheet">
+	</head>
 
+	<body>
+		<h1>Tim is simply the best</h1>
+	</body>
+</html>
